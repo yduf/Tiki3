@@ -1,6 +1,16 @@
-![Tiki3 Gen3 2](https://user-images.githubusercontent.com/68491566/132115498-8b4ed608-8ff6-4bba-a261-dcbf7684c226.png)
+![Tiki3 Gen3 2 remixed](https://user-images.githubusercontent.com/13983772/147852731-8d33813a-e173-44be-b609-18d6d286b3eb.png)
 
-# Tiki3 (version 3.2)
+
+
+# Tiki3 (version 3.2) Remixed
+
+Change the orientation of the orbiter Extruder to be over the ender rail.
+This has been done, by modifying the step files provided, mostly moving the screws
+and rotating top parts.
+
+Remixed step files integrated into repos.
+
+Everything else is the same.
 
 
 <b>Update 14 Oct 2021: </b> 
