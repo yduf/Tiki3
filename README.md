@@ -8,6 +8,8 @@ Change the orientation of the orbiter Extruder to be over the ender rail.
 This has been done, by modifying the step files provided, mostly moving the screws
 and rotating top parts.
 
+It works well with orbiter 1.5 and LDO motors  LDO-36STH20-1004AHG(XH), but the gap leave between the ender 3 struture is quite small: 1/2 mm. A wider motor won't fit the rail.
+
 Remixed step files integrated into repos.
 
 Everything else is the same.
